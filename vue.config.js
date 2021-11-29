@@ -5,7 +5,6 @@ function resolve(dir) {
 }
 
 module.exports = {
-  publicPath: 'sub-web',
   css: {
     loaderOptions: {
       less: {
